@@ -2,6 +2,7 @@
 <p align="center">
   <b>Customer Sentiment Analysis | Restaurant Segmentation | Business Analytics</b>
 </p>
+<img width="1920" height="1130" alt="image" src="https://github.com/user-attachments/assets/155caa33-ac1d-4b3c-bb6e-6777db31300d" />
 
 <hr>
 
